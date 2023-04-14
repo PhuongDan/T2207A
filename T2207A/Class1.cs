@@ -12,7 +12,7 @@ namespace T2207A
         public string email;
         public int age;
         public string telephone;
-        Student() {
+        public Student() {
             this.Run();
             this.Learn();    
         }
