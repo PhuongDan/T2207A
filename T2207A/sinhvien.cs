@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace T2207A
 {
-    public class PhoneBook
+    internal class sinhvien
     {
-
-        
-
-  
-
     }
 }
-
-  
